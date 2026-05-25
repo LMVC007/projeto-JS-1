@@ -102,7 +102,7 @@ section {
     gap: 8px;
 }
 
-.currency-value {
+.currency-value, .currency-value-to-convert {
     color: #777777;
     font-size: 14px;
 }
